@@ -85,7 +85,7 @@ streamlit run app.py
 
 ```
 ├── app.py
-├── .env.example
+├── .env
 ├── requirements.txt
 └── README.md
 ```
