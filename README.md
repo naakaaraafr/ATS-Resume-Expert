@@ -35,8 +35,8 @@
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/ats-resume-expert.git
-   cd ats-resume-expert
+   git clone https://github.com/naakaarafr/ATS-Resume-Expert.git
+   cd ATS-Resume-Expert
 
 
 2. **Create & activate a virtual environment**
